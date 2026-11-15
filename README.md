@@ -49,23 +49,6 @@ Known issues will be documented and addressed as development continues.
 
 ---
 
-## 🤝 Contributing
-
-Community contributions are welcome!
-
-You can help by:
-
-- Reporting bugs.
-- Suggesting new features.
-- Testing releases.
-- Improving the source code.
-- Improving documentation.
-- Submitting pull requests.
-
-Every contribution helps improve FreeDualScreen.
-
----
-
 ## 📜 Credits
 
 FreeDualScreen is based on the original DualScreen Launcher by ProfMags.
