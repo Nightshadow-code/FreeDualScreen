@@ -47,7 +47,7 @@ Compatibility may vary depending on the device and Android version.
 Clone the repository:
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone <https://github.com/Nightshadow-code/FreeDualScreen.git>
 cd FreeDualScreen
 ```
 
