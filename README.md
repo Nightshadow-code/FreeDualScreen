@@ -28,6 +28,8 @@ These issues may be related to services or authentication systems inherited from
 
 We are investigating these issues and will document improvements as they become available.
 
+(Updater removed in Version 1.0.1. We will see if we bring something like that back.)
+
 ### Original Launcher Update Signature
 
 FreeDualScreen uses its own APK signing certificate.
